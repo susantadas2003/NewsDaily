@@ -23,7 +23,7 @@ setProgress=(progress)=>{
     return (
   <>
   
-  <BrowserRouter basename="/NewsDaily">
+  <BrowserRouter>
   <LoadingBar color='#f11946'  progress={this.state.progress} height={3}/>
   <Navbar/>
   <Routes>

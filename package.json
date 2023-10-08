@@ -1,5 +1,6 @@
 {
-  "name": "https://susantadas2003.github.io/NewsDaily",
+  "homepage": "https://susantadas2003.github.io/NewsDaily",
+  "name":"my-app",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
